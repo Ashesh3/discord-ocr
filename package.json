@@ -1,0 +1,17 @@
+{
+  "name": "discord-ocr",
+  "description": "",
+  "author": "Ashesh3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "tesseract.js": "^5.0.2"
+  },
+  "keywords": [],
+  "license": "MIT"
+}
